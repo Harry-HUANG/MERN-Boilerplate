@@ -1,0 +1,4 @@
+{
+    "mongoURI": "/* Add your database URI */",
+    "jwtSecret": "/* Add your JWT secret */"
+}
